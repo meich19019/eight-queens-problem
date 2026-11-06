@@ -1,4 +1,4 @@
-﻿namespace EightQueensProblem;
+﻿namespace EightQueens;
 
 public abstract class Chess
 {

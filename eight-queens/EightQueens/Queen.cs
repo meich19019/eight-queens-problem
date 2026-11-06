@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EightQueensProblem;
+namespace EightQueens;
 
 public class Queen(string position) : Chess(position)
 {
